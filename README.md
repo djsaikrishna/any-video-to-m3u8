@@ -27,7 +27,7 @@ A simple Node.js application that converts any video format to `.m3u8` (HLS) for
     
 3.  **Start the Server**:
     
-    `node app.js` 
+    `node server.js` 
     
 
 ## Usage
